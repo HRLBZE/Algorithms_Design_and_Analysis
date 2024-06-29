@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\回溯法">
+      <UniqueIdentifier>{bd35d172-bb8a-463f-b2ca-b762e59fcfe8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\分支限界法">
+      <UniqueIdentifier>{e47709e4-e840-4b6d-a328-90a37876c74f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\作业">
+      <UniqueIdentifier>{23aaaf98-d3bf-42a6-a123-0a01926ed698}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\作业\回溯作业">
+      <UniqueIdentifier>{337facc2-7a10-4057-be3d-373c2a792d8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\递归与分治">
+      <UniqueIdentifier>{f31cd54c-3ba0-4106-b5ac-ba0310d8a4ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\动态规划">
+      <UniqueIdentifier>{73461ebe-1f13-4d5b-abf9-14c2d5f12c64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\贪心">
+      <UniqueIdentifier>{eafa59e2-bdcd-4fe8-aa3f-e7b6211ed876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\作业\分治和递归">
+      <UniqueIdentifier>{14678cba-f76b-421f-a96d-728b58acd1fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\作业\动态规划">
+      <UniqueIdentifier>{562de1e5-cff0-4ec6-b41b-6a53a6aa258f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="The Horse Racing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Moving Tables.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="装载问题.cpp">
+      <Filter>源文件\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="批处理作业调度.cpp">
+      <Filter>源文件\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="符号三角形问题.cpp">
+      <Filter>源文件\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="n皇后问题.cpp">
+      <Filter>源文件\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="0-1_背包问题.cpp">
+      <Filter>源文件\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="最大团问题.cpp">
+      <Filter>源文件\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="m着色问题.cpp">
+      <Filter>源文件\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="旅行售货员问题.cpp">
+      <Filter>源文件\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="迷宫问题.cpp">
+      <Filter>源文件\作业\回溯作业</Filter>
+    </ClCompile>
+    <ClCompile Include="合并排序.cpp">
+      <Filter>源文件\递归与分治</Filter>
+    </ClCompile>
+    <ClCompile Include="Quicksort.cpp">
+      <Filter>源文件\递归与分治</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵连乘.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="最长公共子序列.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="01背包问题.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="哈夫曼编码.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="队列_优先_装载问题.cpp">
+      <Filter>源文件\分支限界法</Filter>
+    </ClCompile>
+    <ClCompile Include="0_1背包问题.cpp">
+      <Filter>源文件\分支限界法</Filter>
+    </ClCompile>
+    <ClCompile Include="爬楼梯.cpp">
+      <Filter>源文件\作业\分治和递归</Filter>
+    </ClCompile>
+    <ClCompile Include="交易逆序对的总数.cpp">
+      <Filter>源文件\作业\分治和递归</Filter>
+    </ClCompile>
+    <ClCompile Include="最大子数和.cpp">
+      <Filter>源文件\作业\分治和递归</Filter>
+    </ClCompile>
+    <ClCompile Include="背包问题01.cpp">
+      <Filter>源文件\作业\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="数字三角形.cpp">
+      <Filter>源文件\作业\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="最长上升子序列.cpp">
+      <Filter>源文件\作业\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="组合.cpp">
+      <Filter>源文件\作业\回溯作业</Filter>
+    </ClCompile>
+    <ClCompile Include="电话号码的字母组成.cpp">
+      <Filter>源文件\作业\回溯作业</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
